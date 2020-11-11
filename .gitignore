@@ -106,4 +106,7 @@ venv.bak/
 .DS_Store
 .idea
 .try
-.vscode/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
